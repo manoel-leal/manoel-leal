@@ -8,6 +8,6 @@
 
 ### &#x1f4c8; GitHub Stats
 
-![mlpdleal Status](https://github-readme-stats.vercel.app/api?username=manoel-leal&show_icons=true&theme=dark)
+![mlpdleal Status](https://github-readme-stats.vercel.app/api?username=manoel-leal&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-leal&layout=compact&hide=plpgsql&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-leal&layout=compact&hide=plpgsql)](https://github.com/anuraghazra/github-readme-stats)
